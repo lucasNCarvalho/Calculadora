@@ -28,6 +28,7 @@ public class App {
             System.out.println("Subtração: " + sub);
             System.out.println("Multiplicação: "+ multi);
             System.out.println("Divisão: " + div);
+            System.out.println("teste");
 
         } catch (ArithmeticException e) {
             erroTrat.tratarErro(e);
